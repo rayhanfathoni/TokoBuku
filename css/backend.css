@@ -1,0 +1,33 @@
+body{font-family: raleway;}
+.btn{border-radius: 0;}
+h1,h2,h3,h4,h5,h6{margin:0px;}
+.wrapper{width: 100%;}
+.body-wrapper{padding: 0;}
+.sidebar{border-right: 1px solid silver; padding: 0px;border-bottom: 1px solid silver;}
+.side{margin-bottom: 20px;}
+.side-1 .isi{padding: 10px;}
+.avatar{margin: 0 auto; width: 100px; margin-bottom: 15px;}
+.avatar img{width: 100px; height: 100px;}
+.logout{margin: 0 auto; text-align: center;}
+.side-2 .side-header{padding: 5px; background-color: #56810A; color: white;}
+.side-2 .isi ul{padding: 0; margin: 0; list-style: none;}
+.side-2 .isi ul li a{display: block; padding: 7px 10px; border-bottom: 1px solid silver; color: black; text-decoration: none;}
+.side-2 .isi ul li #actived{background-color: #6DA111;}
+.side-2 .isi ul li a:hover{transition: all 0.5s ease-in; background-color: #6DA111; text-decoration: none; color: white;}
+.content-body{padding: 0;}
+.content-header{background-color: #8bc34a; padding:10px 20px;}
+.content-isi{min-height: 350px; padding: 10px;}
+.tabel-toko table{border:1px solid #eeeeee;}
+.tabel-toko table th{text-align: center;}
+#tambah-data{margin-bottom:10px;}
+#kembali{margin-bottom: 20px;}
+.tambah-edit{padding: 0; margin: 0 auto; float: none;}
+.tambah-edit table{width: 100%;}
+.tambah-edit table td{padding: 5px;}
+.form-control{border-radius: 0;}
+.tambah-edit table tr{vertical-align: top;}
+.tambah-edit .gambar{text-align: center; border: 1px solid silver; height:150px; width: 250px;}
+.tambah-edit #image-preview{max-width: 100%; max-height: 100%;}
+.search{padding: 0; margin-bottom: 10px;}
+.clear{clear: both;}
+footer{background-color: #33691e; min-height: 50px;}

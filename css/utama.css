@@ -1,0 +1,47 @@
+body{font-family: segoe ui;
+background: rgba(117,103,219,1);
+background: -moz-linear-gradient(left, rgba(117,103,219,1) 0%, rgba(117,103,219,1) 0%, rgba(235,102,213,1) 54%, rgba(230,225,122,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(117,103,219,1)), color-stop(0%, rgba(117,103,219,1)), color-stop(54%, rgba(235,102,213,1)), color-stop(100%, rgba(230,225,122,1)));
+background: -webkit-linear-gradient(left, rgba(117,103,219,1) 0%, rgba(117,103,219,1) 0%, rgba(235,102,213,1) 54%, rgba(230,225,122,1) 100%);
+background: -o-linear-gradient(left, rgba(117,103,219,1) 0%, rgba(117,103,219,1) 0%, rgba(235,102,213,1) 54%, rgba(230,225,122,1) 100%);
+background: -ms-linear-gradient(left, rgba(117,103,219,1) 0%, rgba(117,103,219,1) 0%, rgba(235,102,213,1) 54%, rgba(230,225,122,1) 100%);
+background: linear-gradient(to right, rgba(117,103,219,1) 0%, rgba(117,103,219,1) 0%, rgba(235,102,213,1) 54%, rgba(230,225,122,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7567db', endColorstr='#e6e17a', GradientType=1 );
+}
+.form-control{border-radius: 0px; color: black;}
+.btn{border-radius: 0px;}
+.utama{max-width: 1000px; margin: 0 auto;background-color: white;opacity: 0.9;}
+header{min-height: 100%;}
+header .gambar img{width: 100%;}
+.navbar{border-radius: 0px; font-family:futura;}
+.navbar-inverse {border: none; background-color: #510119;}
+.navbar-inverse .navbar-nav>li>a {color: white;}
+.navbar-inverse .navbar-nav>li>a:hover{color: #9d9d9d;}
+.body-wrapper{padding: 15px 0px;}
+.sidebar{min-height: 200px; padding: 0px 5x;}
+.side{ border: 1px solid silver; margin-bottom: 15px; font-family:futura;}
+.side .isi {padding: 5px;}
+.side .jenis{padding: 0px;}
+.side .isi ul{padding: 0; margin: 0; list-style: none;}
+.side .isi ul li a{display: block; padding: 7px 10px; border-bottom: 1px solid silver; color: black;}
+.side .isi ul li #actived{background-color: #510119; color: white;}
+.side .isi ul li a:hover{transition: all 0.5s ease-in; background-color: #510119; text-decoration: none; color: white;}
+.side .side-header h2{margin: 0; font-size: 16px; font-weight: bold;}
+.side .side-header{ padding: 5px; border-bottom: 1px solid silver;}
+.isi-header{border: 1px solid silver; padding:0px;}
+.content-body{padding: 0px 5x;}
+.content-header{border-bottom: 3px double silver; padding: 5px;}
+.content-header h1,h2,h3,h4,h5,h6{display: inline-block; margin: 0;}
+.content-isi{padding: 5px;}
+.content-isi .row{ margin:10px 5px; padding: 0;}
+.content-isi .colo{margin-bottom: 10px; padding: 0px 5px;}
+.content-isi .col{border:1px solid silver; padding:0px;}
+.content-isi .col .gambar{padding: 7px; background-color: white; text-align: center;}
+.content-isi .col .aksi{border-top: 1px solid silver; padding:7px;}
+.content-isi .col .aksi .btn{border-radius: 0px;}
+.content-isi .col .gambar #gambar-ok{margin: auto;max-height: 120px;}
+footer{background: #4A2E2E; clear: both; color: white; padding: 10px 7px; font-family: bellota;}
+#navbar-active{background-color: #510119; color: white;}
+/* untuk edit halaman kontak */
+.form-kontak{width: 70%; margin: 0px auto; padding: 10px;}
+.clear{clear: both;}
